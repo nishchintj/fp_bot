@@ -1,0 +1,6 @@
+requests
+python-telegram-bot
+python-dotenv
+starlette
+uvicorn
+redis
