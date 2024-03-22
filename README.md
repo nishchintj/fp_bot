@@ -1,6 +1,3 @@
-# Sakhi Telegram Unified Bot Service
-
-The Sakhi Telegram Bot is a Python-based bot that interacts with the Sakhi API Server via Telegram. It allows users to perform various actions and access information from the API Server through the convenience of a Telegram chat interface.
 
 ## Prerequisites
 
@@ -15,9 +12,7 @@ The Sakhi Telegram Bot is a Python-based bot that interacts with the Sakhi API S
 
 1. Clone the repository
 
-   ```bash
-   git clone https://github.com/Sunbird-AIAssistant/sakhi-telegram-unified-service.git
-   cd sakhi-telegram-unified-service
+
 
 2. Install required python dependencies
 
